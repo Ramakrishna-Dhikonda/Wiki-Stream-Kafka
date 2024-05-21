@@ -1,1 +1,2 @@
 # Wiki-Stream-Kafka
+`Wiki-Stream-Kafka` is a Spring Boot application that consumes real-time change events from a Kafka topic named `wikimedia_recentChanges`. This application is part of a microservices architecture where the `wikiStreamProducer` service fetches real-time data from Wikimedia's recent changes and publishes it to Kafka, while this `wikiStreamConsumer` service consumes and processes these messages.
