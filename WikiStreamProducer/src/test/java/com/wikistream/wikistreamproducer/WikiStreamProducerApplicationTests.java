@@ -11,6 +11,3 @@ class WikiStreamProducerApplicationTests {
     }
 
 }
-
-
-'''heloo'''
