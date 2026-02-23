@@ -7,10 +7,9 @@ import org.springframework.boot.test.context.SpringBootTest;
 class WikiStreamProducerApplicationTests {
 
     @Test
-    void contextLoads() {
+    void logging() {
     }
 
 }
 
 
-'''heloo'''
