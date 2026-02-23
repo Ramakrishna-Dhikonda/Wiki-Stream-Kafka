@@ -7,7 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class WikiStreamProducerApplicationTests {
 
     @Test
-    void contextLoader() {
+    void contextLoaderImprovedVersion() {
     }
 
 }
